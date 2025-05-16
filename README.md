@@ -24,11 +24,3 @@ The dataset has been cleaned and preprocessed, with null values handled, outlier
 
 ## Modeling and Evaluation
 In this project, various machine learning models such as linear regression, decision trees, and random forests were applied to predict house prices. The models were evaluated using metrics like Mean Absolute Error (MAE) and R-squared to assess their accuracy.
-
-## Installation
-If users want to use the code, they can follow the instructions below:
-
-```bash
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
-pip install -r requirements.txt
